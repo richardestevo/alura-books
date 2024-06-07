@@ -1,1 +1,6 @@
-1q
+:root {
+    --cor-de-fundo:var(--cor-de-fundo)
+}
+h1 {
+    background-color: aliceblue;
+}
